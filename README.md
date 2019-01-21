@@ -64,7 +64,7 @@ $$\theta_{MAP} = \frac{11}{18} = 0.61$$
 
 ## Conjugate prior relationships
 
-The following diagram summarizes conjugate prior relationships for a number of common sampling distributions.
+The following diagram (from [John D. Cook's](https://www.johndcook.com/blog/conjugate_prior_diagram/) website) summarizes conjugate prior relationships for a number of common sampling distributions.
 
 
 ![](conjugate_prior.png)
